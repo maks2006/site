@@ -1,0 +1,90 @@
+body {
+  background-color: #CCCCCC;
+  color: #fff;
+  font-family: cursive;
+
+
+}
+/* .container{
+  margin: 0px auto;
+
+}
+ */
+
+.content{
+  width: 980px;
+  min-height: 500px;
+ margin-left: 162px;
+  background-color: #4A4A4A;
+  display: inline-block;
+  padding: 10px;
+
+}
+.footer{
+  height: 300px;
+  width: 1002px;
+   margin-left: 161px;
+  background-color: #000;
+  margin-top: 5px;
+  display: inline-block;
+}
+h1,h2,h3{
+
+  padding: 0;
+  text-align: center;
+
+}
+
+.skills div{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  transition:         transform 1.8s ease;
+  margin-left: 100px;
+  display: inline-block;
+
+}
+
+.cs{
+  background-image: url('https://rat.in.ua/wp-content/uploads/2015/12/5405-C-100x100.png');
+
+}
+.html{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfxjU929-ztAX-ZxYuIMOwle3vDBcndpdEEKdEE_hLbiuCV-Mf&usqp=CAU');
+}
+
+.js{
+  background-image: url('https://img.icons8.com/ios-filled/2x/javascript-logo.png');
+}
+.css{
+  background-image: url('https://icon-icons.com/icons2/512/PNG/96/css3-01_icon-icons.com_50918.png');
+}
+.skills div:hover{
+         transform: rotate(360deg);
+}
+.css:hover{
+   background-color: #fff;
+
+}
+.js:hover{
+  background-color: yellow;
+}
+.cs:hover{
+  background-color: purple
+}
+
+p {
+  font-size: 20px
+}
+.inst a{
+  color: blue;
+  text-decoration: none;
+}
+strong{
+  color: #24C5C5
+}
+
+.socsite{
+  margin-left: 25px;
+  padding-top: 25px
+}
