@@ -11,7 +11,8 @@ body{
   padding: 0;
   min-height: 350px;
   width: 1000px;
-     margin-left: 15%;
+     margin-left: 17%;
+     margin-right: 15%;
   display: inline-block;
   background-image: url('https://tehnoobzor.com/uploads/posts/2018-12/1544302871_preimuschestva-otkrytogo-ishodnogo-koda-kriptovalyuty.jpg');
 }
@@ -44,7 +45,8 @@ font-size: 20px;
 }
 
 .nav{
-    margin-left: 14%;
+    margin-left: 16%;
+    margin-right: 15%;
   text-align: center;
   width: 960.9px;
   height: 50px;
