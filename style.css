@@ -3,12 +3,7 @@ body{
 }
 
 
-.navigate{
-  display: inline-block;
-  margin-left: 15%;
-  margin-right: 15%;
-  width: 70%;
-}
+
 .header{
 
   padding: 0;
@@ -28,6 +23,14 @@ body{
   margin-top: 50px;
   font-family: cursive;
 }
+
+.navigate{
+  display: inline-block;
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+}
+
 
  .navigate li{
 font-size: 20px;
