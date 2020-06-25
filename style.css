@@ -81,5 +81,6 @@ justify-content: center;
 }
 
 .fot1{
-  display: inline;
+  display: inline-block;
+  
 }
